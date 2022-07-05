@@ -1,8 +1,8 @@
 # HomeAssistant-Scripts
 
-Simple Home Assistant Scripts
+Simple [Home Assistant](https://www.home-assistant.io) Scripts
 
-## AppDaemon
+## [AppDaemon](https://github.com/AppDaemon/appdaemon)
 
 ### Uludag Enerji Parser (hotwaterbill.py)
 * Parse necessary information from Uludag Enerji website, and adds to Home Assistant.
