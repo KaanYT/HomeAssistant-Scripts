@@ -1,0 +1,8 @@
+---
+hot_water_bill:
+  module: hotwaterbill
+  class: HotWaterBill
+
+close_lights:
+  module: closelights
+  class: CloseLights
